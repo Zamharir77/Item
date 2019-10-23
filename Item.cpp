@@ -1,6 +1,8 @@
 #include <iostream>
 #include <string>
 
+#by: Moh Nur Zamharir
+
 using namespace std;
 
 int main()
